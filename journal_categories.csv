@@ -1,0 +1,38 @@
+Id, Category, Sub Category
+12,MOOD,Bashful
+33,HYGIENE,Bath
+36,HYGIENE,Brush Teeth
+3,MOOD,Chatty
+2,MOOD,Clingy
+35,HYGIENE,Clip Nails
+30,HEALTH,Cold
+13,MOOD,Cooing
+31,HEALTH,Coughing
+16,ACTIVITY,Crawling
+10,MOOD,Crying
+34,HYGIENE,Cut Hair
+24,HEALTH,Diarrhea
+27,HEALTH,Fever
+7,MOOD,Fussy
+8,MOOD,Grumpy
+6,MOOD,Happy
+23,ACTIVITY,Listen to Music
+4,MOOD,Mischievous
+26,HEALTH,Pink Eye
+14,ACTIVITY,Play
+11,MOOD,Playful
+1,MOOD,Quiet
+19,ACTIVITY,Rolling Over
+18,ACTIVITY,Running
+9,MOOD,Sad
+20,ACTIVITY,Sitting
+5,MOOD,Sleepy
+21,ACTIVITY,Standing
+29,HEALTH,Stuffy Nose
+37,ACTIVITY,Swimming
+32,HEALTH,Teething
+15,ACTIVITY,Tummy Time
+25,HEALTH,Vomit
+17,ACTIVITY,Walking
+22,ACTIVITY,Watching TV
+28,HEALTH,Wheeze
